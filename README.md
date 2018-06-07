@@ -30,7 +30,7 @@
 
 ### 基础技术框架
 
-    vue-cli + HTML5 + stylus
+    vue-cli + HTML5 + stylus + ES6
 
 ### 应用插件
     better-scroll
